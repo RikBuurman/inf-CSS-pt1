@@ -1,21 +1,26 @@
-body {
-    font-size: 70px;
-    color: lime;
-}
-p {
-    font-size: 70px;
-    color: red;
-}
 
 h1 {
-    color: white;
-    background-color: #009;
+    text-align: center;
+    font-family: 'Arial';
+    color: rgb(241, 57, 57);
+    
+    background-color: rgb(53, 117, 53);
+
+    margin: 20px;
+    padding: 60px;
 }
 h2 {
-    color: white;
-    background-color: orange;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
 }
 h3 {
-    color: blueviolet;
-    background-color: blue;
+    letter-spacing: 1em;
+    text-align:center;
+    font-family:'Arial';
+    font-size:30px;
+    color: white;
+    background-color: orange;
 }
